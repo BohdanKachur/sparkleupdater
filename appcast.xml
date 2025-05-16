@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SparkleUpdater</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Fri, 16 May 2025 23:43:16 +0300</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://bohdankachur.github.io/sparkleupdater/SparkleUpdater.dmg" length="888798" type="application/octet-stream" sparkle:edSignature="cg7jcYNUzccB75GXnThpODVcMVra8gxjibXhdvu35rYTO/fbxEKswRTCqN/ZNw0r6ApPLXtxL87DLKsDp2C6Cw=="/>
+        </item>
+    </channel>
+</rss>
