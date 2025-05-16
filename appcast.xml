@@ -8,7 +8,7 @@
             <sparkle:version>0.9</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://bohdankachur.github.io/sparkleupdater/SparkleUpdater.dmg" length="888798" type="application/octet-stream" sparkle:edSignature="cg7jcYNUzccB75GXnThpODVcMVra8gxjibXhdvu35rYTO/fbxEKswRTCqN/ZNw0r6ApPLXtxL87DLKsDp2C6Cw=="/>
+            <enclosure url="https://github.com/BohdanKachur/sparkleupdater/releases/download/version0.9/SparkleUpdater.dmg" length="888798" type="application/octet-stream" sparkle:edSignature="cg7jcYNUzccB75GXnThpODVcMVra8gxjibXhdvu35rYTO/fbxEKswRTCqN/ZNw0r6ApPLXtxL87DLKsDp2C6Cw=="/>
         </item>
     </channel>
 </rss>
